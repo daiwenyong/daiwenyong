@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
+
 
 ### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" alt="greet"/>
+</div>  
 You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 # I'm Dai Wenyong 
@@ -21,7 +21,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/co
 
 
 ## My Skill Set
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 
 ### Frontend
