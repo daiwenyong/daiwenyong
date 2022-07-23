@@ -11,8 +11,13 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/co
 - 😄 Fun fact: **LOL**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong)](https://github.com/daiwenyong/github-readme-stats)<br/>  
-![daiwenyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiwenyong&show_icons=true&theme=tokyonight)
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=daiwenyong&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong&layout=compact&hide=css,html&hide_border=true&card_width=250">
+</div>
+
+![snake gif](https://github.com/daiwenyong/daiwenyong/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -64,4 +69,9 @@ Here are some ideas to get you started:
 ![decription](https://img.shields.io/badge/-vue-green)
 ![decription](https://img.shields.io/badge/-node-lightgrey)
 ![decription](https://img.shields.io/badge/-mysql-blue)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong)](https://github.com/daiwenyong/github-readme-stats)<br/>  
+![daiwenyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiwenyong&show_icons=true&theme=tokyonight)
 -->
