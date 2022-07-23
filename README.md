@@ -1,6 +1,7 @@
 
 ### Hi there 👋 
-You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
+
+[comment]: <> (You are the ![Visitor Count]&#40;https://profile-counter.glitch.me/Christmas-Wong/count.svg&#41; visitor)
 
 # I'm Dai Wenyong 
 
@@ -13,10 +14,13 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/co
 # About My Github
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=daiwenyong&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong&layout=compact&hide=css,html&hide_border=true&card_width=250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong&layout=compact&hide=css,html&hide_border=true&card_width=250">
 </div>
+<p align="right">
+<img src="https://visitor-badge.glitch.me/badge?page_id=daiwenyong.otaku-ui" />
+</p>
 
-![snake gif](https://github.com/daiwenyong/daiwenyong/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/diy4869/diy4869/blob/output/github-contribution-grid-snake.svg)
 
 
 
