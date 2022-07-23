@@ -1,6 +1,12 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong)](https://github.com/daiwenyong/github-readme-stats)
 ![daiwenyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiwenyong&show_icons=true&theme=tokyonight)
+![decription](https://img.shields.io/badge/-html5-red)
+![decription](https://img.shields.io/badge/-css3-orange)
+![decription](https://img.shields.io/badge/-js-yellow)
+![decription](https://img.shields.io/badge/-vue-green)
+![decription](https://img.shields.io/badge/-node-lightgrey)
+![decription](https://img.shields.io/badge/-mysql-blue)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwenyong)](https://github.com/daiwenyong/github-readme-stats)
 **daiwenyong/daiwenyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
