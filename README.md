@@ -1,11 +1,12 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 
 ### Hi there 👋
 You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
-# I'm Dai Wenyong <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Dai Wenyong 
 
 - 🔭 I’m currently working on **HangZhou**
 - 🌱 I’m currently learning **ReactNative**
@@ -31,7 +32,6 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/co
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
 </td><td valign="top" width="50%">
