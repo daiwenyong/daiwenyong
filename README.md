@@ -20,8 +20,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=daiwenyong.otaku-ui" />
 </p>
 
-![](https://raw.githubusercontent.com/daiwenyong/daiwenyong/main/assets/github-contribution-grid-snake.svg)
-
+[comment]: <> (![]&#40;https://raw.githubusercontent.com/daiwenyong/daiwenyong/main/assets/github-contribution-grid-snake.svg&#41;)
+![snake gif](https://github.com/daiwenyong/daiwenyong/blob/output/github-contribution-grid-snake.svg)
 
 
 
