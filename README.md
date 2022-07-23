@@ -21,7 +21,6 @@
 </p>
 
 ![](https://raw.githubusercontent.com/daiwenyong/daiwenyong/main/assets/github-contribution-grid-snake.svg)
-[comment]: <> (![snake gif]&#40;https://github.com/daiwenyong/daiwenyong/blob/output/github-contribution-grid-snake.svg&#41;)
 
 
 
