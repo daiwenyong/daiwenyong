@@ -20,13 +20,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=daiwenyong.otaku-ui" />
 </p>
 
-![](https://raw.githubusercontent.com/daiwenyong/daiwenyong/main/assets/github-contribution-grid-snake.svg)
-
-
-
 ## My Skill Set
 <table style="width: 100%"><tr><td valign="top" width="50%">
-
 
 ### Frontend
 <div align="center">  
@@ -54,6 +49,9 @@
 </tr></table>  
 
 <br/>  
+
+![](https://raw.githubusercontent.com/daiwenyong/daiwenyong/main/assets/github-contribution-grid-snake.svg)
+
 
 
 <!--
