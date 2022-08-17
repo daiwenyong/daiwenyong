@@ -6,7 +6,7 @@
 # I'm Dai Wenyong 
 
 - 🔭 I’m currently working on **HangZhou**
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **English**
 - 💬 Ask me about JavaScript,Vue,FormCreate and my projects...
 - ⚡ How to reach me: **1106085869@qq.com**
 - 😄 Fun fact: **LOL**
