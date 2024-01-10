@@ -3,12 +3,9 @@
 
 [comment]: <> (You are the ![Visitor Count]&#40;https://profile-counter.glitch.me/Christmas-Wong/count.svg&#41; visitor)
 
-# I'm Dai Wenyong 
-
 - 🔭 I’m currently working on **HangZhou**
 - 🌱 I’m currently learning **English**
-- 💬 Ask me about JavaScript,Vue,FormCreate and my projects...
-- ⚡ How to reach me: **1106085869@qq.com**
+- 💬 Ask me about JavaScript,Vue,React,Flutter,Nodejs,FormCreate and my projects...
 - 😄 Fun fact: **LOL**
 
 # About My Github
